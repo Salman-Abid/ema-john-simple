@@ -1,0 +1,51 @@
+.product img{
+    width: 286px;
+    height: 286px;
+    margin:0 8px ;
+    margin-top: 8px;
+    border-radius: 10px;
+
+}
+.product{
+    width: 300px;
+    height: 520px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    position: relative;
+}
+.product-details{
+    margin-left: 14px;
+}
+.product-details h4{
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    margin-bottom: 11px;
+    margin-top: 12px;
+}
+.product-details h5{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    margin-bottom: 47px;
+}
+.product-details p{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.card-btn{
+    width: 100%;
+    background: #FFE0B3;
+    border: 1px solid #95A0A7;
+    border-radius: 0px 0px 8px 8px;
+    margin:0;
+    position: absolute;
+    bottom: 0;
+    
+}
+
+.card-btn:hover{
+    background-color: orange;
+}
